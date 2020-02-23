@@ -1,1 +1,1 @@
-# Step 3: Building a GCC frontend for `tl` [COMING SOON]
+# Step 3: Building a LLVM frontend for `tl` [COMING SOON]
